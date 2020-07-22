@@ -14,3 +14,6 @@ The example project is included in `demo.zip` and includes instructions to run i
 ## Link to repository
 We use a public GitHub repository: (https://github.com/thedpws/pitcher.git). The zipped `pitcher.zip` is the project version released by the time of the midterm deadline.
 
+## Dependencies
+libasound2-dev
+lilypond
