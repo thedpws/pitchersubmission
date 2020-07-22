@@ -1,5 +1,4 @@
 # Revised README for Pitchr midterm submission
-
 This is a revised version of the README for our midterm submission.
 
 ## Project Description
@@ -9,11 +8,14 @@ Pitchr (formerly Pitcher) is a framework for composing music. Pitchr lets you qu
 For pip installation do `pip3 install pitchr`
 
 ## Executable command
-The example project is included in `demo.zip` and includes instructions to run it.
+The example project is archived in `demo.zip` and includes instructions in its README to run it.
+
+### Dependencies
+The following are dependencies of Pitchr. The example project includes these in its installation instructions
+* `libasound2-dev`
+* `lilypond`
 
 ## Link to repository
 We use a public GitHub repository: (https://github.com/thedpws/pitcher.git). The zipped `pitcher.zip` is the project version released by the time of the midterm deadline.
 
-## Dependencies
-libasound2-dev
-lilypond
+
